@@ -6,7 +6,7 @@ tiers (Platinum Elite, Business Gold, Corporate Starter). Built with **Streamlit
 segmentation, churn/risk, evidence-backed revenue recommendations, and a 12-month
 revenue forecast.
 
-**[🔗 Live demo](#)** — [replace this with your Streamlit Cloud URL once deployed](https://corporate-card-portfolio-dashboard-q6pz7mwcpzu3kfgplb66to.streamlit.app/)
+**[🔗 Live demo](#)** — [https://corporate-card-portfolio-dashboard-q6pz7mwcpzu3kfgplb66to.streamlit.app/]
 
 > **Note:** This repo ships with a synthetic, fabricated dataset
 > (`generate_demo_data.py` → `analysis_results.pkl`) so the dashboard can be shared
